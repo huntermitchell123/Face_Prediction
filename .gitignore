@@ -1,0 +1,10 @@
+.DS_Store
+
+# ignore unzipped pics
+/imdb_img_data/cropped_pics/*
+
+# ignore temp model
+/model_temp/*
+
+# ignore testing_pics
+/testing_pics/*
