@@ -3,8 +3,8 @@
 # ignore unzipped pics
 /imdb_img_data/cropped_pics/*
 
-# ignore temp model
-/model_temp/*
+# ignore temp models
+/temp_models/*
 
 # ignore testing_pics
 /testing_pics/*
